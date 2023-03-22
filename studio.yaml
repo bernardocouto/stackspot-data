@@ -1,0 +1,13 @@
+about: StackSpot Data
+company: StackSpot
+creators:
+  - displayName: Bernardo Couto
+    jobRole: Data Engineer Specialist
+    picture: https://avatars.githubusercontent.com/u/35502483?v=4
+    profileURL: https://github.com/bernardocouto
+    provider: github
+displayName: Data
+name: stackspot-data
+technologies:
+  - Apache Spark
+  - Python

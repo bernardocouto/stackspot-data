@@ -1,9 +1,0 @@
-description: Data Stack
-display-name: Data
-category: Data
-compatibility:
-  - Python
-name: stackspot-data
-technologies:
-  - Apache Spark
-  - Python
