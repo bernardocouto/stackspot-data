@@ -1,0 +1,6 @@
+# Documentation
+/docs
+*.md
+
+# Test
+/test

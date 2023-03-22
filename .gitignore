@@ -1,0 +1,20 @@
+# Byte Compiled
+__pycache__/
+
+# Coverage
+*.coverage
+
+# Environment Variable
+*.env
+
+# MacOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Virtual Environment
+venv/
+
+# Visual Studio Code
+.vscode/
